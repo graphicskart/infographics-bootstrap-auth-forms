@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/infographics-bootstrap-auth-forms/static/js/runtime~main.3736e14d.js"
   },
   {
-    "revision": "f7012bc767e9afbbdc59",
-    "url": "/infographics-bootstrap-auth-forms/static/js/main.f7012bc7.chunk.js"
+    "revision": "3e177ff2ef25269f9a64",
+    "url": "/infographics-bootstrap-auth-forms/static/js/main.3e177ff2.chunk.js"
   },
   {
-    "revision": "609d19394363a5e5620b",
-    "url": "/infographics-bootstrap-auth-forms/static/js/2.609d1939.chunk.js"
+    "revision": "02fd83707ea5d6d4466a",
+    "url": "/infographics-bootstrap-auth-forms/static/js/2.02fd8370.chunk.js"
   },
   {
-    "revision": "f7012bc767e9afbbdc59",
+    "revision": "3e177ff2ef25269f9a64",
     "url": "/infographics-bootstrap-auth-forms/static/css/main.16371f3e.chunk.css"
   },
   {
-    "revision": "240ad00a1403c9a93086ea65e6d6b6f2",
+    "revision": "5d62066c39c82940ff761858f3bfe166",
     "url": "/infographics-bootstrap-auth-forms/index.html"
   }
 ];
